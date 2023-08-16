@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "cdTerrain"
+  site-url: "https://civildot.github.io/cdTerrain"
+  description: "TIN Terrain from point height data"
+  repo-branch: main
+  repo-url: "https://github.com/civildot/cdTerrain"
